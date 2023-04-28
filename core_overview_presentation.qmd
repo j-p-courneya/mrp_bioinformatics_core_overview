@@ -2,6 +2,9 @@
 title: "MRP Bioinformatics Core Overview"
 author: "JP Courneya"
 format: revealjs
+project:
+  type: website
+  output-dir: docs
 ---
 
 ## Getting up
