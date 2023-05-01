@@ -9,7 +9,7 @@ project:
 
 ## {background-color="black" background-image="https://i.imgur.com/ImgSiCh.png"}
 
-## Welcome 
+## Learning Objectives 
 
 - Turn off alarm
 - Get out of bed
