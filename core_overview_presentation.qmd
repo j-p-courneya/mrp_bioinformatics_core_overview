@@ -19,12 +19,35 @@ project:
 - Data management
 - MRP GitHub Organization
 
-## Going to sleep
+## Bioinformatics Core Project Overview
 
 - Get in bed
 - Count sheep
 
-## Please work
+## Project Management system for tickets
 
 - does this
 - work
+
+## Creating a ticket
+
+![Preferred_chat_system_XKCD](https://imgs.xkcd.com/comics/preferred_chat_system.png)
+
+## What to expect when we meet
+
+- Zoom call or in person
+- Project Intake form 
+- Computing Env
+
+## Data Management for Lab and Bioinformatics Core
+
+- working out a system for storing results and tracking
+- DMSP's
+- Reproducible Science
+
+## Look at MRP GitHub Organization
+
+- A place to commit code on the web
+- Version control
+- Project and repository management
+- Teams by PI
