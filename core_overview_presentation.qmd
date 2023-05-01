@@ -1,5 +1,6 @@
 ---
-title: "MRP Bioinformatics Core \nOverview"
+title: "MRP Bioinformatics Core"
+subtitle: "Overview"
 author: "JP Courneya"
 format: revealjs
 project:
