@@ -7,7 +7,9 @@ project:
   output-dir: docs
 ---
 
-## Getting up
+## {background-color="black" background-image="https://i.imgur.com/ImgSiCh.png"}
+
+## Welcome 
 
 - Turn off alarm
 - Get out of bed
@@ -16,3 +18,4 @@ project:
 
 - Get in bed
 - Count sheep
+
