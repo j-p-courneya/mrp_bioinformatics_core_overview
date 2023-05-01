@@ -11,8 +11,12 @@ project:
 
 ## Learning Objectives 
 
-- Turn off alarm
-- Get out of bed
+- What is a project
+- How to create a ticket 
+- How are tickets managed
+- What to expect when we meet
+- Data management
+- MRP GitHub Organization
 
 ## Going to sleep
 
