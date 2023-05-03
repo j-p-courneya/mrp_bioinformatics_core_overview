@@ -12,6 +12,7 @@ project:
 
 ## Learning Objectives 
 
+- What is MRP Bioinformatics Core
 - What is a project
 - How to create a ticket 
 - How are tickets managed
@@ -19,19 +20,29 @@ project:
 - Data management
 - MRP GitHub Organization
 
+## Welcome to your Bioinformatics Core
+
+- I made this up 
+- 4 facets of the Core
+- Bioinformatics Analysis/Programming
+- Data Management
+- Reproducible Science
+- Learning/Instruction
+
 ## Bioinformatics Core Project Overview
 
-- Get in bed
-- Count sheep
-
-## Project Management system for tickets
-
-- does this
-- work
+- Measurable unit of productivity
+- Base unit of organization
+- Projects begin with a ticket submission
 
 ## Creating a ticket
 
 ![Preferred_chat_system_XKCD](https://imgs.xkcd.com/comics/preferred_chat_system.png)
+
+## Project/Ticket Management system.
+
+- [Project Tracking with Lists](https://somumaryland-my.sharepoint.com/:l:/g/personal/jean-paul_courneya_som_umaryland_edu/FIJFgWm1SfJCnP1ydGGz61UBXrutIkYSG-CHGr71CxEQsA?e=6Vv3WL)
+- work
 
 ## What to expect when we meet
 
