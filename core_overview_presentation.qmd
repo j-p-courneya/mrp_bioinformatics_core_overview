@@ -12,10 +12,12 @@ project:
 
 ## {background-color="white"}
 
-![](https://i.imgur.com/zvvYl4s.jpg){width=200 height=150}
+![](https://i.imgur.com/zvvYl4s.jpg){width=400 height=300}
 
 ![](https://i.imgur.com/HztmPlV.png){width=40 height=40} [Jean-Paul.Courneya@som.umaryland.edu](Jean-Paul.Courneya@som.umaryland.edu)
+
 ![](https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true){width=40 height=40} [@j-p-courneya](https://github.com/j-p-courneya)
+
 ![](https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true){width=40 height=40} [@JPCourneya](https://twitter.com/JPCourneya)
 
 ## Learning Objectives 
