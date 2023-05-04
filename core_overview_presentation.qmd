@@ -47,7 +47,11 @@ project:
 
 ## Creating a ticket
 
-![Preferred_chat_system_XKCD](https://imgs.xkcd.com/comics/preferred_chat_system.png)
+![](https://imgs.xkcd.com/comics/preferred_chat_system.png)
+<img data-src="https://imgs.xkcd.com/comics/preferred_chat_system.png" class="r-stretch quarto-figure-center"><p class="caption">Preferred_chat_system_XKCD</p>
+
+- Email me and cc Shannon
+- [MRP Bioinformatics Core Teams Page](https://teams.microsoft.com/l/team/19%3aUgZl_XDki7k3heBOXQQ8qAOx9kSnvpmNkypgQg4O5fs1%40thread.tacv2/conversations?groupId=7115bdb3-2f26-455d-b124-39736ae2280e&tenantId=717009a6-20de-461a-8894-0312a395cac9)
 
 ## Project/Ticket Management system.
 
@@ -58,7 +62,7 @@ project:
 
 - Zoom call or in person
 - Project Intake Form 
-- Computing Env
+- Computing Environment
 
 ## Data Management for Lab and Bioinformatics Core
 
