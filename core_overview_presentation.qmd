@@ -8,7 +8,7 @@ project:
   output-dir: docs
 ---
 
-## {background-color="black" background-image="https://i.imgur.com/ImgSiCh.png"}
+## {background-color="black" background-image="https://i.imgur.com/Gtu46pw.png"}
 
 ## {background-color="white"}
 
@@ -32,7 +32,6 @@ project:
 
 ## Welcome to your Bioinformatics Core
 
-- I made this up 
 - 4 facets of the Core
 - Bioinformatics Analysis/Programming
 - Data Management
@@ -47,31 +46,39 @@ project:
 
 ## Creating a ticket
 
-<img data-src="https://imgs.xkcd.com/comics/preferred_chat_system.png" class="r-stretch quarto-figure-center"><p class="caption">Preferred_chat_system_XKCD</p>
-
 - Email me and cc Shannon
 - [MRP Bioinformatics Core Teams Page](https://teams.microsoft.com/l/team/19%3aUgZl_XDki7k3heBOXQQ8qAOx9kSnvpmNkypgQg4O5fs1%40thread.tacv2/conversations?groupId=7115bdb3-2f26-455d-b124-39736ae2280e&tenantId=717009a6-20de-461a-8894-0312a395cac9)
+
+<img data-src="https://imgs.xkcd.com/comics/preferred_chat_system.png" class="r-stretch quarto-figure-center"><p class="caption">Preferred_chat_system_XKCD</p>
 
 ## Project/Ticket Management system.
 
 - [Project Tracking with Lists](https://somumaryland-my.sharepoint.com/:l:/g/personal/jean-paul_courneya_som_umaryland_edu/FIJFgWm1SfJCnP1ydGGz61UBXrutIkYSG-CHGr71CxEQsA?e=6Vv3WL)
-- work
+- We have considered other options as well (GitHub, Zenhub)
 
 ## What to expect when we meet
 
-- Zoom call or in person
+- Zoom call or in-person
 - Project Intake Form 
 - Computing Environment
 
+## Project Intake Form
+
+![](https://i.imgur.com/gigrPdK.png)
+
 ## Data Management for Lab and Bioinformatics Core
 
-- working out a system for storing results and tracking
+- Synergy in organizing and tracking projects.
 - DMSP's
+- Submitting Data to public repositories (SRA, PlasmoDB)
 - Reproducible Science
 
 ## Look at MRP GitHub Organization
 
+- MRP is on GitHub! [MRP-Bioinformatics](https://github.com/mrp-bioinformatics)
 - A place to commit code on the web
 - Version control
 - Project and repository management
 - Teams by PI
+
+## {background-color="black" background-image="https://i.imgur.com/pK4rVuw.png"}
