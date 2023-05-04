@@ -8,7 +8,9 @@ project:
   output-dir: docs
 ---
 
-## {background-color="black" background-image="https://i.imgur.com/Gtu46pw.png"}
+## {background-color="black"}
+
+![](https://i.imgur.com/Gtu46pw.png)
 
 ## {background-color="white"}
 
