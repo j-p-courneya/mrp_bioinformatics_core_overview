@@ -10,6 +10,13 @@ project:
 
 ## {background-color="black" background-image="https://i.imgur.com/ImgSiCh.png"}
 
+## {background-color="white"}
+
+![](https://i.imgur.com/zvvYl4s.jpg)
+
+![](https://i.imgur.com/HztmPlV.png) [Jean-Paul.Courneya@som.umaryland.edu](Jean-Paul.Courneya@som.umaryland.edu)
+![](https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true) [@j-p-courneya](https://github.com/j-p-courneya)
+![](https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png?raw=true) [@JPCourneya](https://twitter.com/JPCourneya)
 ## Learning Objectives 
 
 - What is MRP Bioinformatics Core
@@ -47,7 +54,7 @@ project:
 ## What to expect when we meet
 
 - Zoom call or in person
-- Project Intake form 
+- Project Intake Form 
 - Computing Env
 
 ## Data Management for Lab and Bioinformatics Core
