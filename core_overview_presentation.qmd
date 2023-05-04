@@ -47,7 +47,6 @@ project:
 
 ## Creating a ticket
 
-![](https://imgs.xkcd.com/comics/preferred_chat_system.png)
 <img data-src="https://imgs.xkcd.com/comics/preferred_chat_system.png" class="r-stretch quarto-figure-center"><p class="caption">Preferred_chat_system_XKCD</p>
 
 - Email me and cc Shannon
